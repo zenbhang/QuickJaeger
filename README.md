@@ -1,6 +1,7 @@
 # QuickJaeger
 
 An quick and easy way to implement Jaeger APM spans into your codebase!
+
 Proven to also work in a docker container on Kubernetes (speicifically EKS).
 
 ## Setup
