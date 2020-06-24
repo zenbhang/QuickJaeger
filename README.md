@@ -46,5 +46,5 @@ try{
 
 With that, you will now have proper working spans from your code base being exported to the Jaeger instance that you have set up!
 
-Creator's note 6/24/2020
+###Creator's note 6/24/2020
 Currently supporting Java, but planning to create versions for python, Ruby, and whatever is requested.
