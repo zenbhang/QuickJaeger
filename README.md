@@ -1,10 +1,10 @@
 # QuickJaeger
 
-An quick and easy way to implement Jaeger APM into your codebase!
+An quick and easy way to implement Jaeger APM spans into your codebase!
 Proven to also work in a docker container on Kubernetes (speicifically EKS).
 
 ## Setup
-Copy over the classes and merge the POM file, and you will have a working implementation of Jaeger!
+Copy over the classes and merge the POM file, and you can now implement Jaeger spans into your code!
 
 
 ## Usage
