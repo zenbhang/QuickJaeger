@@ -37,9 +37,9 @@ qj.setTag("TaskType", "Example")
 qj.endSpan("Task")
 ```
 7. Call upon the error() method for usage in exceptions and other error cases
+
 ```
 try{
-
 }catch(exception e){
   qj.error("EXCEPTION FOUND" + e);
 }
