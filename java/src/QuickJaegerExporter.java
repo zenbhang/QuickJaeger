@@ -1,5 +1,3 @@
-
-
 import io.opencensus.exporter.trace.jaeger.JaegerTraceExporter;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
