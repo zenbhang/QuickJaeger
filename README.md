@@ -1,3 +1,5 @@
+![Logo](https://raw.githubusercontent.com/zenbhang/QuickJaeger/master/QuickJaeger.png)
+
 # QuickJaeger
 
 An quick and easy way to implement Jaeger APM spans into your codebase!
