@@ -2,7 +2,7 @@
 
 An quick and easy way to implement Jaeger APM spans into your codebase!
 
-Proven to also work in a docker container on Kubernetes (speicifically EKS).
+Proven to also work in a docker container and on Kubernetes (speicifically EKS).
 
 ## Setup
 Copy over the classes and merge the POM file, and you can now implement Jaeger spans into your code!
